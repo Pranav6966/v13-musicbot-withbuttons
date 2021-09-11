@@ -1,0 +1,21 @@
+{
+  "token": "ODg1NTA5MjA1MDc3OTQyMzAz.YToEtg.i7KiPZdzpceEBznzypx0obeXyF8", 
+  "mongourl": "mongodb+srv://ESPORTS:OO11C6gUCF8b3Ikl@esportss.nl393.mongodb.net/paras?retryWrites=true&w=majority",
+  "ksoftapi": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
+  "prefix": "!",
+  "ownerID": "882598149141692426", 
+  "SpotifyID": "3eb159586f4248e9abe72aec520febea",
+  "SpotifySecret": "597b352318ca4f528e9bb730720ae022",
+  "embedColor": "#303236",
+   "nodes": [
+  
+  {
+    "host": "https://lavalink-repl-2.pranavjs.repl.co",
+    "port": 443,
+    "password": "youshallnotpass",
+    "retryDelay": 3000,
+    "secure": true
+  
+  }
+]
+}
